@@ -30,8 +30,9 @@ color:#ebe3f2;
     }
 }
 @media screen and (max-width: 366px) {
+  
 .ffdd{
-    display:none;
-
-    }
+    display: none;
 }
+
+  }
