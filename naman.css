@@ -30,7 +30,7 @@ color:#ebe3f2;
     }
 }
 @media screen and (max-width: 366px) {
-#ffdd{
+.ffdd{
     display:none;
 
   }
